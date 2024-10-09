@@ -1,2 +1,1 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+### This mod brings a lot of missing third-person animations from the first-person or modifies them to be better representative to how they should look like or look like in the first-person. This mod was created as an expansion for the First-Person Mod, but works completely on its own and is fully vanilla/3rd party server compatible(since it's all just visual).
